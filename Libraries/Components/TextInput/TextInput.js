@@ -128,6 +128,8 @@ var TextInput = React.createClass({
       'decimal-pad',
       'twitter',
       'web-search',
+      // android-only
+      'visible-password',
     ]),
     /**
      * Determines the color of the keyboard.
